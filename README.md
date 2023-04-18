@@ -22,4 +22,4 @@ The test plan, test casess, bugs, test results, for the final project, can be fo
 
 **Exploratory testing on academybugs.com**
 
-Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found bugs were reported on JIRA: [academybugs reports](https://guru99bankapp.atlassian.net/jira/software/c/projects/AC/boards/2?atlOrigin=eyJpIjoiNzYxNWMwNmY0ZjNiNGE0NWE0ZWVlNTZlN2NhMGRjMjkiLCJwIjoiaiJ9).
+Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found bugs were reported on JIRA: [academybugs reports](https://guru99bankapp.atlassian.net/browse/AC-13?atlOrigin=eyJpIjoiNTIzOTgwM2QwYzdiNGRmNWIwOGRjNWE2NzM0N2M4ZDkiLCJwIjoiaiJ9).
