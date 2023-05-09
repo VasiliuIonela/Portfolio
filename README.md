@@ -18,7 +18,7 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 **Final Project for ITF MAnual and Automation Testing Course**
 The final project consists in choosing a module from an application and start the testing process, based on bussiness requirements, from Test Planning until Test Completion, including SQL.
 
-The test plan, test casess, bugs, test results, for the final project, can be found here: [Final Project](https://github.com/VasiliuIonela/Final-Project-for-ITF-Manual-Testing-Course#final-project-for-itf-manual-testing-course-guru99-bank-application).
+The test plan, test casess, bugs, test results, for the final project, can be found here: [Final Project](https://github.com/VasiliuIonela/Project-for-sportvision).
 
 **Exploratory testing on academybugs.com**
 
