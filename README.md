@@ -19,10 +19,10 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 The final project consists in choosing a module from an application and start the testing process, based on bussiness requirements, from Test Planning until Test Completion, including SQL.
 
 The test plan, test casess, bugs, test results, for the final project, can be found here: [Final Project-sportvision website](https://github.com/VasiliuIonela/Project-for-sportvision).
-**PErsonal projects**:
+
+**Personal projects**:
 * [Project for guru99 bank application](https://github.com/VasiliuIonela/GURU99-BANKapp#final-project-for-itf-manual-testing-course-guru99-bank-application).
-* [Project for orange hrm application]().
-* 
+* [Project for orange hrm application](https://github.com/VasiliuIonela/Project-OrangeHRM#project-orangehrm).
 
 **Exploratory testing on academybugs.com**
 
