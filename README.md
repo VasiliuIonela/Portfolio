@@ -27,7 +27,7 @@ The test plan, test casess, bugs, test results, for the final project, can be fo
 
 **Exploratory testing on academybugs.com**
 
-Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found bugs were reported on JIRA: [bugs reports](https://github.com/VasiliuIonela/Portfolio/blob/main/academy.bugs.doc).
+Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found bugs were reported on JIRA: [bugs reports](https://github.com/VasiliuIonela/Portfolio/blob/main/academy.bugs.pdf).
 
 **Postman for API**
 
