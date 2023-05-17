@@ -29,5 +29,6 @@ The test plan, test casess, bugs, test results, for the final project, can be fo
 Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found bugs were reported on JIRA.
 
 **Postman for API**
+
 My first activity con Postman can be found here: [Simple books](https://github.com/VasiliuIonela/Portfolio/blob/main/Simple%20Book%20API.postman_collection.json).
 
