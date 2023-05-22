@@ -34,5 +34,5 @@ Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found
 My  learning activity on Postman can be found here:
 * [Simple books](https://github.com/VasiliuIonela/Portfolio/blob/main/Simple%20Book%20API.postman_collection.json).
 * [Contacts list](https://github.com/VasiliuIonela/Portfolio/blob/main/contact%20lists.postman_collection.json).
-* [Spotify]().
+* [Spotify](https://github.com/VasiliuIonela/Portfolio/blob/main/Spotify.postman_collection.json).
 
