@@ -31,5 +31,8 @@ Performed exploratory testing on [Academy bugs](https://academybugs.com/). Found
 
 **Postman for API**
 
-My first activity con Postman can be found here: [Simple books](https://github.com/VasiliuIonela/Portfolio/blob/main/Simple%20Book%20API.postman_collection.json).
+My  learning activity on Postman can be found here:
+* [Simple books](https://github.com/VasiliuIonela/Portfolio/blob/main/Simple%20Book%20API.postman_collection.json).
+* [Contacts list](https://github.com/VasiliuIonela/Portfolio/blob/main/contact%20lists.postman_collection.json).
+* [Spotify]().
 
