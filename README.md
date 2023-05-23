@@ -38,6 +38,7 @@ My  learning activity on Postman can be found here:
 * [Spotify](https://github.com/VasiliuIonela/Portfolio/blob/main/Spotify.postman_collection.json).
 
 **Test plan**
+
 In order to better understand the scope of a test plan, I have tried to make drafts, as follows:
 * [Test plan for Guru99Bank application-  the role of a Manager](https://github.com/VasiliuIonela/Portfolio/blob/main/testplanGuru99Bankapp.pdf).
 * [Test plan for orange hrm application- the 'Job' module](https://github.com/VasiliuIonela/Portfolio/blob/main/testplanOrangeHRM.pdf).
