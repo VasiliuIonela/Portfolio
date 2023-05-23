@@ -14,6 +14,7 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 * JIRA
 * Zephyr for JIRA
 * Postman for API
+* My SQL
 
 ## Examples of my work
 **Final Project for ITF MAnual and Automation Testing Course**
