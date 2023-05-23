@@ -3,12 +3,16 @@
 My name is Ionela Vasiliu. I have started to take an interest in the software testing area. My goals are to improve and develop testing knowledge and technical skills, to reach the level of performance that I am capable of, in order to be a good tester. I would like to share my evolution in this field, starting from scratch.
 ## Skills
 **Testing**
+* can perform static amalysis on the UI
+* can be a part of a review analysis 
 * can perform functional testing on web applications
 * gained hands-on experience by testing applications created for educational purposes
 * can create test cases and execute them in a test management tool
 * can create bug reports for the defects found and link them with the appropriate requirement
 * can analyze efficiently functional documentation and point out the right questions to ensure that defects are found early
-* can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases
+* can apply test design techniques, such as: boundary value analysis, equivalence paritioning, to derive test cases
+* can make API requests in Postman- beginner level.
+* can create database in MySQL- beginner level.
 
 ## Tools
 * JIRA
