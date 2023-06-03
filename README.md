@@ -58,5 +58,5 @@ In order to better understand the scope of a test plan, I have tried to make dra
 * [Test plan for orange hrm application- the 'Job' module](https://github.com/VasiliuIonela/Portfolio/blob/main/testplanOrangeHRM.pdf).
 **Python vs Java**
 My firsts stepts into these 2 programming languages were the actual comparison between them, and in order to better understand, I made some practice, which can be found here:
-[Python learnings](https://github.com/VasiliuIonela/Python).
-[Java learninngs]()
+* [Python learnings](https://github.com/VasiliuIonela/Python).
+* [Java learninngs](https://github.com/VasiliuIonela/Java)
