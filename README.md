@@ -19,6 +19,8 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 * Zephyr for JIRA
 * Postman for API
 * My SQL
+* PyCharm for Python
+* Intellij for Java
 
 ## Soft Skills
 * Since I have started to explore Testing area, I have improved my analitic skills.
@@ -54,4 +56,7 @@ My  learning activity on Postman can be found here:
 In order to better understand the scope of a test plan, I have tried to make drafts, as follows:
 * [Test plan for Guru99Bank application-  the role of a Manager](https://github.com/VasiliuIonela/Portfolio/blob/main/testplanGuru99Bankapp.pdf).
 * [Test plan for orange hrm application- the 'Job' module](https://github.com/VasiliuIonela/Portfolio/blob/main/testplanOrangeHRM.pdf).
-
+**Python vs Java**
+My firsts stepts into these 2 programming languages were the actual comparison between them, and in order to better understand, I made some practice, which can be found here:
+[Python learnings](https://github.com/VasiliuIonela/Python).
+[Java learninngs]()
