@@ -3,8 +3,8 @@
 My name is Ionela Vasiliu. I have started to take an interest in the software testing area. My goals are to improve and develop testing knowledge and technical skills, to reach the level of performance that I am capable of, in order to be a good tester. I would like to share my evolution in this field, starting from scratch.
 ## Tech Skills
 **Testing**
-* Can perform static amalysis on the UI
-* Can be a part of a review analysis 
+* Can perform static analysis on the UI
+* Can be a part of a review 
 * Can perform functional testing on web applications
 * Gained hands-on experience by testing applications created for educational purposes
 * Can create test cases and execute them in a test management tool
@@ -13,6 +13,7 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 * Can apply test design techniques, such as: boundary value analysis, equivalence paritioning, to derive test cases
 * Can make API requests in Postman- beginner level.
 * Can create database in MySQL- beginner level.
+* possess the knowledge required to utilize OOP concepts and techniques(Python and Java)->beginner level.
 
 ## Tools
 * JIRA
@@ -31,12 +32,12 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 * As a hobby, I am an energic person, I like to train in the gym almost daily, I love walking.
 
 ## Examples of my work
-**Final Project for ITF MAnual and Automation Testing Course**
+**Final Project for ITF Manual and Automation Testing Course**
 The final project consists in choosing a module from an application and start the testing process, based on bussiness requirements, from Test Planning until Test Completion, including SQL.
 
 The test plan, test casess, bugs, test results, for the final project, can be found here: [Final Project-sportvision website](https://github.com/VasiliuIonela/Project-for-sportvision).
 
-**Personal projects**:
+**Personal projects**: another project that I am working to:
 * [Project for guru99 bank application](https://github.com/VasiliuIonela/GURU99-BANKapp#final-project-for-itf-manual-testing-course-guru99-bank-application).
 * [Project for orange hrm application](https://github.com/VasiliuIonela/Project-OrangeHRM#project-orangehrm).
 
@@ -59,6 +60,8 @@ In order to better understand the scope of a test plan, I have tried to make dra
 
 **Python vs Java**
 
-My firsts stepts into these 2 programming languages were the actual comparison between them, and in order to better understand, I made some practice, which can be found here:
+My firsts stepts into these 2 programming languages were the actual comparison between them, and in order to better understand, I made some practice, including OOP, which can be found here:
 * [Python learnings](https://github.com/VasiliuIonela/Python).
-* [Java learninngs](https://github.com/VasiliuIonela/Java)
+* [Java learninngs](https://github.com/VasiliuIonela/Java).
+
+My knowledge, regarding this area, is expanding day by day. I am focused on gaining some real experience, in order to succeed and find a job where I can  reach my full potential and grow professionally.
