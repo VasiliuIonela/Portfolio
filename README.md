@@ -3,8 +3,7 @@
 My name is Ionela Vasiliu. I have started to take an interest in the software testing area. My goals are to improve and develop testing knowledge and technical skills, to reach the level of performance that I am capable of, in order to be a good tester. I would like to share my evolution in this field, starting from scratch.
 ## Tech Skills
 **Testing**
-* Can perform static analysis on the UI
-* Can be a part of a review 
+* Can take part of a review 
 * Can perform functional testing on web applications
 * Gained hands-on experience by testing applications created for educational purposes
 * Can create test cases and execute them in a test management tool
