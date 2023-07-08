@@ -54,7 +54,8 @@ My  learning activity on Postman can be found here:
 
 
 **My SQL**
-[project for sportvision-database](https://github.com/VasiliuIonela/SQL-project-for-sportvison/tree/main#sql-project-for-sportvison)
+
+[Project for sportvision-database](https://github.com/VasiliuIonela/SQL-project-for-sportvison/tree/main#sql-project-for-sportvison)
 
 **Test plan**
 
