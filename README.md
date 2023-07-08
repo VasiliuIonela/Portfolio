@@ -18,7 +18,7 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 * JIRA
 * Zephyr for JIRA
 * Postman for API
-* My SQL
+* My SQL 
 * PyCharm for Python
 * Intellij for Java
 
@@ -34,7 +34,8 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 **Final Project for ITF Manual and Automation Testing Course**
 The final project consists in choosing a module from an application and start the testing process, based on bussiness requirements, from Test Planning until Test Completion, including SQL.
 
-The test plan, test casess, bugs, test results, for the final project, can be found here: [Final Project-sportvision website](https://github.com/VasiliuIonela/Project-for-sportvision).
+The test plan, test casess, bugs, test results, for the final project, can be found here: 
+[Final Project-sportvision website](https://github.com/VasiliuIonela/Project-for-sportvision).
 
 **Personal projects**: another project that I am working to:
 * [Project for guru99 bank application](https://github.com/VasiliuIonela/GURU99-BANKapp#final-project-for-itf-manual-testing-course-guru99-bank-application).
@@ -50,6 +51,10 @@ My  learning activity on Postman can be found here:
 * [Simple books](https://github.com/VasiliuIonela/Portfolio/blob/main/Simple%20Book%20API.postman_collection.json).
 * [Contacts list](https://github.com/VasiliuIonela/Portfolio/blob/main/contact%20lists.postman_collection.json).
 * [Spotify](https://github.com/VasiliuIonela/Portfolio/blob/main/Spotify.postman_collection.json).
+
+
+**My SQL**
+[project for sportvision-database](https://github.com/VasiliuIonela/SQL-project-for-sportvison/tree/main#sql-project-for-sportvison)
 
 **Test plan**
 
