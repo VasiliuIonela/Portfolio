@@ -20,6 +20,7 @@ My name is Ionela Vasiliu. I have started to take an interest in the software te
 * Postman for API
 * My SQL 
 * PyCharm for Python
+* Selenium
 * Intellij for Java
 
 ## Soft Skills
